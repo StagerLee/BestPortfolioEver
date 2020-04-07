@@ -7,4 +7,4 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-So what should we add and how should look like? 
+So what should we add and how should it look like? 
